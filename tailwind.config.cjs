@@ -8,6 +8,7 @@ module.exports = {
 		colors: {
 		  primary: 'rgb(79, 70, 229)',
 		  secondary: '#ecc94b',
+		  firewatch: '#fedcc8',
 		}
 	  },
 	},
